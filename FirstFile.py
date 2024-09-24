@@ -1,7 +1,7 @@
 #Kiana Tjon
 #9/23/24
-first="Kiana"
-last="Tjon"
+firstName="Kiana"
+lastName="Tjon"
 age=14
-print("Full Name: "+first+" "+last+" Age: "+str(age))
-print("Full Name:",first,last,"Age:",age)
+print("Full Name: "+firstName+" "+lastName+" Age: "+str(age))
+print("Full Name:",firstName,lastName,"Age:",age)
